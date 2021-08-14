@@ -9,3 +9,6 @@ I'm a Junior developer, student, uncle
 🥅 2021 Goals: Become proeficient in React
 
 ⚡ Fun fact: I love to walk
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sankaire)](https://github.com/sankaire/github-readme-stats)
+
