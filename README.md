@@ -10,5 +10,5 @@ I'm a Junior developer, student, uncle
 
 ⚡ Fun fact: I love to walk
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sankaire)](https://github.com/sankaire/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sankaire)](https://github.com/anurag's/github-readme-stats)
 
