@@ -1,7 +1,5 @@
 # Hi there, I'm Peter Tepela 👋
 
-Website Twitter Follow
-
 I'm a Junior developer, student, uncle
 
 🌱 I’m currently learning React and student at Zetech University
