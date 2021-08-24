@@ -6,7 +6,7 @@ I'm a Junior developer, student, uncle
 
 👯 I’m looking to collaborate with other coders
 
-🥅 2021 Goals: Become proeficient in React
+🥅 2021 Goals: Become proficient in React
 
 ⚡ Fun fact: I love to walk
 
