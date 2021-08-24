@@ -1,6 +1,6 @@
 # Hi there, I'm Peter Tepela 👋
 
-I'm a Junior developer, student, uncle
+I'm a Aspiring developer |student | uncle
 
 🌱 I’m currently learning React and student at Zetech University
 
