@@ -13,7 +13,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sankaire&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Your Repository's Stats](https://contrib.rocks/image?repo=Tanu-N-Prabhu/Python)
 
 
 
