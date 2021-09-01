@@ -3,7 +3,7 @@
 
 🌱 I’m currently learning React and student at Zetech University
 
-👯 I’m looking to collaborate with other coders
+👯 I’m looking foward to collaborate with other coders
 
 🥅 2021 Goals: Become proficient in React
 
