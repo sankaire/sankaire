@@ -5,9 +5,9 @@
 
 👯 I’m looking foward to collaborate with other coders
 
-🥅 2021 Goals: Become proficient in React
+🥅 2021 Goals : Become proficient in React
 
-⚡ Fun fact: I love to walk
+⚡ Fun fact : I love to walk
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sankaire&show_icons=true)
 
