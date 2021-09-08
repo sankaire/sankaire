@@ -1,6 +1,5 @@
 # Hi there, I'm Peter Tepela 👋
 
-
 🌱 I’m currently learning React and student at Zetech University
 
 👯 I’m looking foward to collaborate with other coders
