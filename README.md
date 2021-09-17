@@ -4,7 +4,7 @@
 
 👯 I’m looking foward to collaborate...
 
-🥅 2021 Goals : Become proficient in React
+🥅 2021 Goals : Be proficient in React
 
 ⚡ Fun fact : I love to walk
 
