@@ -6,7 +6,7 @@
 
 🥅 2021 Goals : Be proficient in React
 
-⚡ Fun fact : I love to walk
+⚡ Fun fact : I like Walking
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sankaire&show_icons=true)
 
