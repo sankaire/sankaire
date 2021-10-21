@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning React and student at Zetech University
 
-👯 I’m looking foward to collaborate...
+👯 I’m looking foward to collaborate and contribute on open source projects
 
 🥅 2021 Goals : Be proficient in React
 
