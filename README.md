@@ -1,6 +1,7 @@
 # Hi there, I'm Peter Tepela 👋
 
 🌱 I’m currently learning To building REST APIs
+
 👯 I’m looking foward to collaborate and contribute on open source projects
 
 🥅 2021 Goals : Be proficient in React
