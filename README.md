@@ -9,6 +9,8 @@
 ⚡ Fun fact : I like Walking
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taylorotwell&count_private=true&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taylorotwell&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
