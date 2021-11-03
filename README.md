@@ -8,10 +8,10 @@
 
 ⚡ Fun fact : I like Walking
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sankaire&count_private=true&show_icons=true&theme=radical&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sankaire&count_private=true&show_icons=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sankaire&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sankaire&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
