@@ -1,4 +1,4 @@
-# Sopa!!👋
+# Hello! = Sopa!👋
 
 🌱 I’m currently learning how to build REST APIs
 
