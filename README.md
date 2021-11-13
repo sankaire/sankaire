@@ -1,4 +1,4 @@
-# Hi there, I'm Peter Tepela 👋
+# Sopa!!👋
 
 🌱 I’m currently learning how to build REST APIs
 
