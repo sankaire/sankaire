@@ -11,4 +11,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sankaire&count_private=true&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sankaire&hide=php,html,css,hack,C&layout=compact&theme=radica)](https://github.com/sankaire/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sankaire&hide=php,html,css,hack,C&layout=compact&theme=radical)](https://github.com/sankaire/github-readme-stats)
