@@ -8,7 +8,9 @@
 
 ⚡ Fun fact : I like Walking
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sankaire&count_private=true&show_icons=true&theme=radical)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sankaire&hide=php,html,css,hack,C&layout=compact&theme=radical)](https://github.com/sankaire/github-readme-stats)
+ <table>
+  <tr>
+      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=sankaire&show_icons=true&count_private=true&include_all_commits&theme=tokyonight"/></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankaire&langs_count=8&layout=compact&theme=tokyonight"/></td>
+  </tr>   
+</table>
