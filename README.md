@@ -11,6 +11,6 @@
  <table>
   <tr>
       <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=sankaire&show_icons=true&count_private=true&include_all_commits&theme=tokyonight"/></td>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankaire&langs_count=8&layout=compact&theme=tokyonight&hide=html,css,ejs,php,C,hack,typescript,jupyter%20notebook,python,shell,cpp"/></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankaire&langs_count=8&layout=compact&theme=tokyonight&hide=html,css,ejs,php,C,hack,typescript,jupyter%20notebook,python,shell,C++"/></td>
   </tr>   
 </table>
