@@ -1,10 +1,9 @@
 # Hello! = Sopa!👋
 
-🌱 I’m currently learning how to build REST APIs
 
 👯 I’m looking foward to collaborate and contribute on open source projects
 
-🥅 2021 Goals : Be proficient in GO
+🥅 2022 Goals : Be proficient in GO
 
 ⚡ Fun fact : I like Walking
 
