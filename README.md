@@ -1,4 +1,5 @@
 <h3 align="center">
+ <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="50px"> 
  Welcome to Tepela's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
