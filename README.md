@@ -15,4 +15,5 @@
  <a href="https://twitter.com/tepela2"><img width="32px" alt="Twitter" title="Let's talk more on Twitter" src="https://github.com/Chemutaiselim/svg/blob/main/twitter.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
+<img src="https://komarev.com/ghpvc/?username=sankaire&label=profile+views&color=ff0c00&style=flat">
 
